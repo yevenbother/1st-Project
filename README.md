@@ -8,5 +8,5 @@ This a Random Pink image from the Internet.
 
 And I used it to to see if AlexNet would Identify it with accurate Precision. These are the Results:
 
-![alt text](https://github.com/yevenbother/FlowerProject/blob/Screenshot (289)/image.jpg?raw=true)
+![alt text](https://github.com/yevenbother/FlowerProject/blob/main/results.png?raw=true)
 
