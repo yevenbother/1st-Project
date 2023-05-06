@@ -11,4 +11,4 @@ I took pictures from different flowers. And I uploaded them into AlexNet And I t
 ![alt text](https://github.com/yevenbother/FlowerProject/blob/main/results.png?raw=true)
 
 
-BY TESTING MORE EPOCHS THE VALIDATION ACCURACE GETS MORE PRECISE
+BY TESTING MORE EPOCHS THE VALIDATION ACCURACy GETS MORE PRECISE
